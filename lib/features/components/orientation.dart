@@ -1,0 +1,4 @@
+enum Orientations {
+  horizontal,
+  vertical,
+}
