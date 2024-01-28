@@ -1,4 +1,4 @@
-# wed_app
+# WedPlanAR
 
 A new Flutter project.
 
